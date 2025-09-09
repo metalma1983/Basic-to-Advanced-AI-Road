@@ -116,18 +116,3 @@ Optional, but gives a strong advantage in research and cutting-edge projects.
 
 ---
 
-## 📂 Repo Structure
-## ```bash
-AI-Learning-Journey/
-│
-├── phase0_setup/          # GitHub, environment, documentation basics
-├── phase1_foundations/    # ML & statistics foundations
-├── phase2_deep_learning/  # Neural networks & CNN/RNN
-├── phase3_transformers/   # Transformer models & HuggingFace
-├── phase4_genAI/          # GANs, diffusion, multimodal AI
-├── phase5_posttraining/   # SFT, RLHF, DPO, alignment
-│
-├── data/                  # Links or small datasets
-├── notebooks/             # Colab-ready Jupyter notebooks
-└── README.md              # This roadmap
-
