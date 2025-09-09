@@ -117,7 +117,7 @@ Optional, but gives a strong advantage in research and cutting-edge projects.
 ---
 
 ## 📂 Repo Structure
-```bash
+## ```bash
 AI-Learning-Journey/
 │
 ├── phase0_setup/          # GitHub, environment, documentation basics
